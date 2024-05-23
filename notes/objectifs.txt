@@ -1,5 +1,0 @@
-Les analyses:
-    Price vs. Ratings: Cette étude explore la corrélation entre les prix des hôtels et leurs évaluations moyennes, offrant des perspectives sur les stratégies de tarification optimales.
-    Nb d'Avis vs. Évaluations: Nous analysons la relation entre le nombre d'avis reçus par un hôtel et ses évaluations moyennes pour comprendre l'impact du volume de rétroaction sur la satisfaction client.Déterminer si les hôtels avec plus d'avis ont tendance à avoir des évaluations plus élevées ou plus basses.
-    Salaire Net Mensuel Moyen dans une Ville: Nombre d'Hôtels dans une Ville: Cette analyse examine comment le salaire moyen dans une ville est lié au nombre d'hôtels présents, permettant une meilleure compréhension de l'accessibilité des hôtels en fonction du pouvoir d'achat local.
-    Population du Pays vs. Nombre d'Hôtels: Nous explorons la répartition des hôtels en corrélation avec la population du pays pour comprendre les dynamiques de la demande touristique et l'adéquation de l'offre hôtelière à différentes échelles de population.
