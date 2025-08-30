@@ -37,7 +37,7 @@ Le dépôt contient plusieurs modules organisés en notebooks et scripts Python 
 
 ----
 
-## 📊 Résultats principaux
+## Résultats principaux
 - **Corrélations** : les hôtels avec des prix modérés obtiennent souvent de meilleurs scores.  
 - **Modélisation** :  
   - Prédiction du score des hôtels avec **Random Forest Regressor (R² ≈ 0.74)**.  
@@ -46,7 +46,7 @@ Le dépôt contient plusieurs modules organisés en notebooks et scripts Python 
 
 ---
 
-## 👥 Auteurs
+## Auteurs
 - **Yacine  Chettab**  
 - **Carine Moubarak**  
 Projet supervisé par **Laure Soulier**  
